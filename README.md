@@ -1,6 +1,6 @@
-# Hi there 👋
+# Developer Tools Creator 🛠💡
 
-I'm a developer focused on building tools that improve engineering workflows and productivity.
+I build tools that make developers' lives easier. Creator of DevFlow CLI - the open-source AI assistant for safer code changes and structured development workflows. Passionate about developer productivity and automation.
 
 ## 🔧 Current Project
 
