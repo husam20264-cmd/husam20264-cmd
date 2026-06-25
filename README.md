@@ -1,6 +1,12 @@
-# Husam | Developer Tools Engineer
+# Husam | AI Developer Tools Engineer
 
-🚀 Building the future of developer productivity tools
+I build practical AI developer tools focused on safer workflows, auditability, and agent governance.
+
+## Featured Projects
+
+🚀 **[DevFlow CLI](https://github.com/husam20264-cmd/DevFlow-CLI)** — AI-powered CLI assistant for safer code changes and PR workflows.
+
+🔍 **[OpenAudit](https://github.com/husam20264-cmd/openaudit)** — Open standard and CLI for verifiable AI agent audit logs.
 
 ## 🔧 Core Skills
 
