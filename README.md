@@ -1,6 +1,30 @@
-# Developer Tools Creator 🛠💡
+# Husam | AI & Developer Tools Builder
 
-I build tools that make developers' lives easier. Creator of DevFlow CLI - the open-source AI assistant for safer code changes and structured development workflows. Passionate about developer productivity and automation.
+🔧 Building AI-powered developer tools and open-source automation solutions
+
+## Featured Project
+
+🚀 **[DevFlow CLI](https://github.com/husam20264-cmd/DevFlow-CLI)**
+AI-powered CLI assistant for safer code changes, project analysis, implementation planning, tests, and PR drafts.
+
+## About Me
+
+- Creator of developer productivity tools
+- Focused on AI automation and workflow improvement
+- Passionate about open source and developer experience
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your@email.com)
+
+## Skills & Tools
+
+- JavaScript/TypeScript
+- AI/ML Integrations
+- Developer Tools
+- Open Source
+- Automation
 
 ## 🔧 Current Project
 
