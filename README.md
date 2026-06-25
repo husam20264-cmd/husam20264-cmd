@@ -1,30 +1,38 @@
-# Husam | AI & Developer Tools Builder
+# Husam | Developer Tools Engineer
 
-🔧 Building AI-powered developer tools and open-source automation solutions
+🚀 Building the future of developer productivity tools
 
-## Featured Project
+## 🔧 Core Skills
 
-🚀 **[DevFlow CLI](https://github.com/husam20264-cmd/DevFlow-CLI)**
-AI-powered CLI assistant for safer code changes, project analysis, implementation planning, tests, and PR drafts.
+- **Developer Tools**: CLI applications, automation workflows
+- **AI Integration**: LLM providers, AI-powered development tools
+- **Open Source**: Maintainer of DevFlow CLI and other projects
+- **Full Stack**: JavaScript/TypeScript, Node.js, modern web technologies
 
-## About Me
+## 📌 Featured Project
 
-- Creator of developer productivity tools
-- Focused on AI automation and workflow improvement
-- Passionate about open source and developer experience
+**[DevFlow CLI](https://github.com/husam20264-cmd/DevFlow-CLI)** — AI assistant for developers
+✅ Safer code changes with dry-run preview
+✅ Multi-LLM provider support (OpenAI, Claude, etc.)
+✅ Project analysis and implementation planning
+✅ Enterprise integration options available
 
-## Connect With Me
+## 🌐 Professional Links
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter)](https://twitter.com/yourhandle)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail)](mailto:your@email.com)
 
-## Skills & Tools
+## 📊 GitHub Activity
 
-- JavaScript/TypeScript
-- AI/ML Integrations
-- Developer Tools
-- Open Source
-- Automation
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=husam20264-cmd&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=husam20264-cmd&show_icons=true&theme=radical)
+
+## 🤝 Open to
+
+- Collaboration on developer tools
+- Enterprise integrations for DevFlow CLI
+- Discussions about AI in software development
 
 ## 🔧 Current Project
 
